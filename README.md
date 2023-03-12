@@ -1,17 +1,5 @@
 # TaskManager with Spring JPA 
 
-
-## Assignment 
-
-Finish this project. 
-
-### Java Classes to Complete 
-
-- controllers/TaskController.java
-- controllers/NoteController.java
-- services/TaskService.java
-- services/NoteService.java
-
 ### API Endpoints 
 
 - GET /tasks - returns all tasks
